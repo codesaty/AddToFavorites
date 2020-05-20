@@ -1,0 +1,16 @@
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Business\bin\Debug\netcoreapp3.1\AddToFavorites.Business.deps.json
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Business\bin\Debug\netcoreapp3.1\AddToFavorites.Business.dll
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Business\obj\Debug\netcoreapp3.1\AddToFavorites.Business.csprojAssemblyReference.cache
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Business\obj\Debug\netcoreapp3.1\AddToFavorites.Business.AssemblyInfoInputs.cache
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Business\obj\Debug\netcoreapp3.1\AddToFavorites.Business.AssemblyInfo.cs
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Business\bin\Debug\netcoreapp3.1\AddToFavorites.Business.pdb
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Business\bin\Debug\netcoreapp3.1\AddToFavorites.Core.dll
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Business\bin\Debug\netcoreapp3.1\AddToFavorites.DataAccess.dll
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Business\bin\Debug\netcoreapp3.1\AddToFavorites.Entities.dll
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Business\bin\Debug\netcoreapp3.1\AddToFavorites.DataAccess.pdb
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Business\bin\Debug\netcoreapp3.1\AddToFavorites.Entities.pdb
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Business\bin\Debug\netcoreapp3.1\AddToFavorites.Core.pdb
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Business\obj\Debug\netcoreapp3.1\AddToFavorites.Business.csproj.CoreCompileInputs.cache
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Business\obj\Debug\netcoreapp3.1\AddToFavorites.Business.csproj.CopyComplete
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Business\obj\Debug\netcoreapp3.1\AddToFavorites.Business.dll
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Business\obj\Debug\netcoreapp3.1\AddToFavorites.Business.pdb

@@ -1,0 +1,342 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.MVC.UI\\AddToFavorites.MVC.UI.csproj": {}
+  },
+  "projects": {
+    "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.Business\\AddToFavorites.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.Business\\AddToFavorites.Business.csproj",
+        "projectName": "AddToFavorites.Business",
+        "projectPath": "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.Business\\AddToFavorites.Business.csproj",
+        "packagesPath": "C:\\Users\\Esat-Can\\.nuget\\packages\\",
+        "outputPath": "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Esat-Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.DataAccess\\AddToFavorites.DataAccess.csproj": {
+                "projectPath": "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.DataAccess\\AddToFavorites.DataAccess.csproj"
+              },
+              "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.Entities\\AddToFavorites.Entities.csproj": {
+                "projectPath": "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.Entities\\AddToFavorites.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.Core\\AddToFavorites.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.Core\\AddToFavorites.Core.csproj",
+        "projectName": "AddToFavorites.Core",
+        "projectPath": "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.Core\\AddToFavorites.Core.csproj",
+        "packagesPath": "C:\\Users\\Esat-Can\\.nuget\\packages\\",
+        "outputPath": "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Esat-Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.DataAccess\\AddToFavorites.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.DataAccess\\AddToFavorites.DataAccess.csproj",
+        "projectName": "AddToFavorites.DataAccess",
+        "projectPath": "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.DataAccess\\AddToFavorites.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Esat-Can\\.nuget\\packages\\",
+        "outputPath": "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Esat-Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.Core\\AddToFavorites.Core.csproj": {
+                "projectPath": "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.Core\\AddToFavorites.Core.csproj"
+              },
+              "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.Entities\\AddToFavorites.Entities.csproj": {
+                "projectPath": "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.Entities\\AddToFavorites.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.Entities\\AddToFavorites.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.Entities\\AddToFavorites.Entities.csproj",
+        "projectName": "AddToFavorites.Entities",
+        "projectPath": "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.Entities\\AddToFavorites.Entities.csproj",
+        "packagesPath": "C:\\Users\\Esat-Can\\.nuget\\packages\\",
+        "outputPath": "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Esat-Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.MVC.UI\\AddToFavorites.MVC.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.MVC.UI\\AddToFavorites.MVC.UI.csproj",
+        "projectName": "AddToFavorites.MVC.UI",
+        "projectPath": "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.MVC.UI\\AddToFavorites.MVC.UI.csproj",
+        "packagesPath": "C:\\Users\\Esat-Can\\.nuget\\packages\\",
+        "outputPath": "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.MVC.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Esat-Can\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.Business\\AddToFavorites.Business.csproj": {
+                "projectPath": "D:\\Asp.netCoreMVC\\AddToFavorites\\AddToFavorites.Business\\AddToFavorites.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

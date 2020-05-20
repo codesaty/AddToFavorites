@@ -1,0 +1,14 @@
+﻿@model AddToFavorites.MVC.UI.Models.CategoryListViewModel
+
+
+<ul class="list-group">
+    @foreach (var categories in Model.Categories)
+    {
+        <li class="list-group-item"><a href="/Product/index?categorySelect=@categories.CategoryId" class="text-dark">@categories.CategoryName</a></li>
+
+    }
+</ul>
+
+
+
+

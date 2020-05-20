@@ -1,0 +1,9 @@
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Core\bin\Debug\netcoreapp3.1\AddToFavorites.Core.deps.json
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Core\bin\Debug\netcoreapp3.1\AddToFavorites.Core.dll
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Core\obj\Debug\netcoreapp3.1\AddToFavorites.Core.csprojAssemblyReference.cache
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Core\obj\Debug\netcoreapp3.1\AddToFavorites.Core.AssemblyInfoInputs.cache
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Core\obj\Debug\netcoreapp3.1\AddToFavorites.Core.AssemblyInfo.cs
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Core\bin\Debug\netcoreapp3.1\AddToFavorites.Core.pdb
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Core\obj\Debug\netcoreapp3.1\AddToFavorites.Core.csproj.CoreCompileInputs.cache
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Core\obj\Debug\netcoreapp3.1\AddToFavorites.Core.dll
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Core\obj\Debug\netcoreapp3.1\AddToFavorites.Core.pdb

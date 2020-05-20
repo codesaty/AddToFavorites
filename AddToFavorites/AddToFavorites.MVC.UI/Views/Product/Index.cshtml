@@ -1,0 +1,24 @@
+﻿@model AddToFavorites.MVC.UI.Models.ProductListViewModel
+
+@{
+    Layout = "~/Views/_AnaSayfaLayout.cshtml";
+}
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Ürünün Adı</th>
+            <th>Fiyat </th>
+            <th>Stok Durumu</th>
+            <th>Favorilere Ekle</th>
+        </tr>
+        @foreach (var item in Model.Products)
+        {
+            <tr>
+                <td>@item.ProductName</td>
+                <td>@item.UnitPrice</td>
+                <td>@item.UnitsInStock</td>
+                <td><a asp-controller="Like" asp-action="AddToLiked" asp-route-ProductId="@item.ProductId"><i class="far fa-thumbs-up fa-2x text-danger"></i></a></td>
+            </tr>
+        }
+    </thead>
+</table>

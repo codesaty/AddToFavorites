@@ -1,0 +1,9 @@
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Entities\bin\Debug\netcoreapp3.1\AddToFavorites.Entities.deps.json
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Entities\bin\Debug\netcoreapp3.1\AddToFavorites.Entities.dll
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Entities\obj\Debug\netcoreapp3.1\AddToFavorites.Entities.csprojAssemblyReference.cache
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Entities\obj\Debug\netcoreapp3.1\AddToFavorites.Entities.AssemblyInfoInputs.cache
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Entities\obj\Debug\netcoreapp3.1\AddToFavorites.Entities.AssemblyInfo.cs
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Entities\bin\Debug\netcoreapp3.1\AddToFavorites.Entities.pdb
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Entities\obj\Debug\netcoreapp3.1\AddToFavorites.Entities.csproj.CoreCompileInputs.cache
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Entities\obj\Debug\netcoreapp3.1\AddToFavorites.Entities.dll
+D:\Asp.netCoreMVC\AddToFavorites\AddToFavorites.Entities\obj\Debug\netcoreapp3.1\AddToFavorites.Entities.pdb

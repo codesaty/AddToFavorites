@@ -1,0 +1,8 @@
+﻿.categories ul li:hover {
+    background-color: darkred;
+}
+
+.categories ul li a:hover {
+    background-color: white;
+}
+
