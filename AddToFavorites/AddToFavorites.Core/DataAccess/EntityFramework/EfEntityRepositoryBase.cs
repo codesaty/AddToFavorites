@@ -7,57 +7,55 @@ using System.Text;
 
 namespace AddToFavorites.Core.DataAccess.EntityFramework
 {
+
     public class EfEntityRepositoryBase<TEntity, TContext> : IEntityRepository<TEntity>
     where TEntity : class, new()
     where TContext : DbContext, new()
     {
+        private readonly NorthwindContext _contextValue;
+        public EfEntityRepositoryBase(NorthwindContext contextValue)
+        {
+             _context=context;        
+        }
         public TEntity Get(Expression<Func<TEntity, bool>> filter)
         {
-            using (var contextValue = new TContext())
-            {
-                return contextValue.Set<TEntity>().SingleOrDefault(filter);
-            }
+           
+                return _contextValue.Set<TEntity>().SingleOrDefault(filter);
+            
         
         }
 
         public List<TEntity> GetList(Expression<Func<TEntity, bool>> filter = null)
         {
-            using (var contextValue = new TContext())
-            {
+           
                 return filter == null
-                    ? contextValue.Set<TEntity>().ToList()
-                    : contextValue.Set<TEntity>().Where(filter).ToList();
-            }
+                    ? _contextValue.Set<TEntity>().ToList()
+                    : _contextValue.Set<TEntity>().Where(filter).ToList();
+            
         }
 
         public void Add(TEntity entity)
         {
-            using (var contextValue = new TContext())
-            {
-                var addedEntities = contextValue.Entry(entity);
+          
+                var addedEntities = _contextValue.Entry(entity);
                 addedEntities.State = EntityState.Added;
-                contextValue.SaveChanges();
-            }
+                _contextValue.SaveChanges();
+            
         }
 
         public void Delete(TEntity entity)
-        {
-            using (var contextValue = new TContext())
-            {
-                var deletedEntities = contextValue.Entry(entity);
+        {          
+                var deletedEntities = _contextValue.Entry(entity);
                 deletedEntities.State = EntityState.Deleted;
-                contextValue.SaveChanges();
-            }
+                _contextValue.SaveChanges();            
         }
 
         public void Update(TEntity entity)
         {
-            using (var contextValue = new TContext())
-            {
-                var updatedEntities = contextValue.Entry(entity);
+                var updatedEntities = _contextValue.Entry(entity);
                 updatedEntities.State = EntityState.Modified;
-                contextValue.SaveChanges();
-            }
+                _contextValue.SaveChanges();
+            
         }
     }
 }
