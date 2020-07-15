@@ -1,2 +1,2 @@
 # AddToFavorites
-Asp.net Core MVC Beğendiğin Ürünleri Favorilere Ekle.
+ASP.NET Core MVC Beğendiğin Ürünleri Favorilere Ekle.
